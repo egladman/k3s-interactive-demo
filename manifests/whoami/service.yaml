@@ -5,7 +5,6 @@ metadata:
   labels:
     app: whoami
 spec:
-#  type: ClusterIP
   ports:
     - port: 80
       name: whoami
